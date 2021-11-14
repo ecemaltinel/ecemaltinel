@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, it's Ecem! 👋
+- 🔭 Currently working on a interior design website as a playground.
+- 🌱 Currently learning Node.js as an attandee of Patika.dev | Getir collaboration.
+- ⚡ Eager to learn new technologies.
 
 <!--
 **ecemaltinel/ecemaltinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
